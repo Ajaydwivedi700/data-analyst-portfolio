@@ -1,2 +1,3 @@
 # data-analyst-portfolio
-My SQL learning progress using Mode Analytics.
+I'm ajay dwivedi('aspiring data analyst')  
+I'm learning SQL,PANDAS,dashboard.                                                                                                                                                                                    Repo contains SQL Queries, projects, notebook.                                                                                                                                                                        My SQL learning progress using Mode Analytics.
